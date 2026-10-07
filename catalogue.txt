@@ -11,7 +11,7 @@
 Les réseaux pour les nuls| Doug Low | Ingénierie | 0 | couv-reseaux-nuls.jpeg |
 L'électronique pour les nuls| Cathleen Shamieh | Cours | 0 | couv-electronique-nuls.jpeg |
 Comment Acheter et Importer des Produits | E-Commerce 2.0 | E-Commerce | 0 | couv-importation.jpeg |
-Facebook Pour les Entreprises | Tribeleadr | Marketing Digital | 0 | couv-faceboock.jpeg|
+Facebook Pour les Entreprises | Tribeleadr | Marketing Digital | 0 | couv-faceboock.jpeg |
 
 [FORMATIONS]
 # Titre | Description | Titre en anglais (facultatif) | Description en anglais (facultatif)
