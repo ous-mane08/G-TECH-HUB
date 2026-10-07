@@ -9,7 +9,7 @@
 [DOCUMENTS]
 # Titre | Auteur | Catégorie | Prix en GNF (chiffres seulement) | Image de couverture (nom exact du fichier, facultatif)
 Les réseaux pour les nuls| Doug Low | Ingénierie | 0 | couv-reseaux-nuls.jpg
-L'électronique pour les nuls| Cathleen Shamieh | Cours | 0 |
+L'électronique pour les nuls| Cathleen Shamieh | Cours | 0 | couv-electronique-nuls.jpeg |
 Comment Acheter et Importer des Produits | E-Commerce 2.0 | E-Commerce | 0 |
 Facebook Pour les Entreprises | Tribeleadr | Marketing Digital | 0 |
 
