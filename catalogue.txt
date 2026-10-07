@@ -1,0 +1,20 @@
+# ============================================================
+# CATALOGUE G-TECH HUB
+# Modifiez ce fichier pour changer vos documents et formations.
+# Une ligne = un document (ou une formation).
+# Les lignes qui commencent par # sont des notes : elles sont ignorées.
+# Séparez les colonnes avec le signe |  (touche AltGr + 6 sur certains claviers)
+# ============================================================
+
+[DOCUMENTS]
+# Titre | Auteur | Catégorie | Prix en GNF (chiffres seulement) | Image de couverture (nom exact du fichier, facultatif)
+Guide de la vidéosurveillance IP | G-TECH HUB | Technique | 50000 | couv-videosurveillance.jpg
+Cours d'électronique de base | G-TECH HUB | Cours | 30000 |
+Modèles de CV et lettres | G-TECH HUB | Emploi | 15000 |
+Exercices corrigés de mathématiques | G-TECH HUB | Cours | 20000 |
+
+[FORMATIONS]
+# Titre | Description | Titre en anglais (facultatif) | Description en anglais (facultatif)
+Électronique et systèmes embarqués | Circuits, microcontrôleurs et systèmes intelligents. | Electronics & embedded systems | Circuits, microcontrollers and smart systems.
+Programmation & Développement | Apprenez à coder et à créer des applications. | Programming & Development | Learn to code and build applications.
+Réseaux & Cybersécurité | Réseaux informatiques et protection des systèmes. | Networks & Cybersecurity | Computer networks and system protection.

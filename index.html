@@ -150,6 +150,19 @@ let S={wa:'224626198958',mail:'od626198958@gmail.com',om:'+224 626 19 89 58',lan
 {id:3,t:'Vente en ligne et commerce digital',d:'Lancer et gérer une boutique en ligne.'},
 {id:4,t:'Électronique et systèmes de sécurité',d:'Caméras, contrôle d\'accès et réseaux.'}]};
 try{const r=localStorage.getItem('gth_pub');if(r){const o=JSON.parse(r);if(o.lang)S.lang=o.lang}}catch(e){}
+const num=v=>parseInt(String(v).replace(/\D/g,''),10)||0;
+S.docs=[];S.forms=[];
+fetch('catalogue.txt?v='+Date.now()).then(r=>r.ok?r.text():'').then(tx=>{
+  let sec='';
+  tx.split(/\r?\n/).forEach(l=>{
+    l=l.trim();if(!l||l[0]==='#')return;
+    if(l[0]==='['){const u=l.toUpperCase();sec=u.includes('DOCUMENT')?'d':u.includes('FORMATION')?'f':'';return}
+    const c=l.split('|').map(x=>x.trim());if(!c[0])return;
+    if(sec==='d')S.docs.push({id:S.docs.length+1,t:c[0],a:c[1]||'',c:c[2]||'Divers',p:num(c[3]),img:c[4]||''});
+    if(sec==='f')S.forms.push({id:S.forms.length+1,t:c[0],d:c[1]||'',e:c[2]||'',ed:c[3]||''});
+  });
+  all();
+}).catch(()=>all());
 const save=()=>{try{localStorage.setItem('gth_pub',JSON.stringify({lang:S.lang}))}catch(e){}};
 const t=k=>T[S.lang][k];
 let cart=[],cat='ALL';
@@ -184,7 +197,7 @@ function chips(){
 const CV=['linear-gradient(165deg,#0c3d7a,#1260b8)','linear-gradient(165deg,#d96f00,#f7941d)','linear-gradient(165deg,#1f7a38,#2e9e4f)','linear-gradient(165deg,#5a3490,#7b4bb3)'];
 function cover(d,i){
   const l=22+(i%4)*5;
-  return `<div class="cov" style="background:${CV[i%4]}">${d.img?`<img class="pic" src="${d.img}" alt="${esc(d.t)}">`:`<img class="lg" src="${LOGO}" alt=""><b>${esc(d.t)}</b><small>${esc(d.a||'')}</small>`}</div>`;
+  return `<div class="cov" style="background:${CV[i%4]}"><img class="lg" src="${LOGO}" alt=""><b>${esc(d.t)}</b><small>${esc(d.a||'')}</small>${d.img?`<img class="pic" src="${esc(d.img)}" alt="${esc(d.t)}" onerror="this.style.display='none'">`:''}</div>`;
 }
 function grid(){
   const q=$('#q').value.trim().toLowerCase();
