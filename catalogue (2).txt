@@ -1,0 +1,28 @@
+# ============================================================
+# CATALOGUE G-TECH HUB
+# Modifiez ce fichier pour changer vos documents et formations.
+# Une ligne = un document (ou une formation).
+# Les lignes qui commencent par # sont des notes : elles sont ignorées.
+# Séparez les colonnes avec le signe |  (touche AltGr + 6 sur certains claviers)
+# ============================================================
+
+[DOCUMENTS]
+# Titre | Auteur | Catégorie | Prix en GNF (chiffres seulement) | Image de couverture (nom exact du fichier, facultatif)
+Les réseaux pour les nuls| Doug Low | Ingénierie | 0 | couv-reseaux-nuls.jpeg |
+L'électronique pour les nuls| Cathleen Shamieh | Cours | 0 | couv-electronique-nuls.jpeg |
+Comment Acheter et Importer des Produits | E-Commerce 2.0 | E-Commerce | 0 | couv-importation.jpeg |
+Facebook Pour les Entreprises | Tribeleadr | Marketing Digital | 0 | couv-faceboock.jpeg |
+Cours de Réseaux et Télécoms| Guy Pujolle | Informatique | 0 | couv-reseaux-tel.jpeg |
+Amkoullel l'enfant Peul| AMADOU Hampâté Bâ | Romans| 0 | couv-amkoulel.jpeg |
+L'art de Convaincre| Marie-claude Nivoix & Philippe Lebreton | Développement Personnel| 0 | couv-convaincre.jpeg |
+ZIDANE| FRÉDÉRIC HERMEL | Sport| 0 | couv-zidane.jpeg |
+L'art de de la guerre | MACHIAVEL |Romans | 0 | couv-guerre-machiavel.jpeg |
+Le Prince | MACHIAVEL |Romans | 0 | couv-le-prince.jpeg |
+L'anglais de la rue pour LES NULS | FLORENCE SAVARY |Cours | 0 | couv-Englais-rue-nuls.jpeg |
+
+
+[FORMATIONS]
+# Titre | Description | Titre en anglais (facultatif) | Description en anglais (facultatif)
+CyberSécurité de début à expert | Circuits, microcontrôleurs et systèmes intelligents. | Electronics & embedded systems | Circuits, microcontrollers and smart systems.
+Programmation & Développement | Apprenez à coder et à créer des applications. | Programming & Development | Learn to code and build applications.
+Réseaux & Cybersécurité | Réseaux informatiques et protection des systèmes. | Networks & Cybersecurity | Computer networks and system protection.
