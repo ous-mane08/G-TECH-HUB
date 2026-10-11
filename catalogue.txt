@@ -19,6 +19,13 @@ ZIDANE| FRÉDÉRIC HERMEL | Sport| 0 | couv-zidane.jpeg |
 L'art de de la guerre | MACHIAVEL |Romans | 0 | couv-guerre-machiavel.jpeg |
 Le Prince | MACHIAVEL |Romans | 0 | couv-le-prince.jpeg |
 L'anglais de la rue pour LES NULS | FLORENCE SAVARY |Cours | 0 | couv-Englais-rue-nuls.jpeg |
+CARLO Ancelotti |GEORGIO CIASCHINI |Sport | 0 | couv-acelotti.jpeg |
+Exercices et Problèmes d'électrotechniqus |LUC LASNE|Exercices | 0 | couv-exercice-electro.jpeg |
+LE GRAND LIVRE D'ÉLECTRICITÉ | THIERRY GALLAUZIAUX & DAVID FEDULLO|Cours | 0 | couv-le-grand-livre-electricite.jpeg |
+La maintenance automobile| HUBERT MÉMÉTEAU & BRUNO COLLTOMB|Cours | 0 | couv-maintenace-auto.jpeg |
+Mécanique Générale| SYLVIE POMMIER & YVES BERTHAUD|Cours | 0 | couv-mecanique-generale.jpeg |
+Installations Photovoltaïques| ANNE LABOURET & MICHEL VILLOZ |Cours | 0 |couv-photovoltaique.jpeg |
+
 
 
 [FORMATIONS]
