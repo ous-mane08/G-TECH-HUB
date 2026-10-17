@@ -77,3 +77,12 @@ demande_titre | Vous ne trouvez pas ce que vous cherchez ? | Can't find what you
 demande_texte_documents | Demandez le document qu'il vous faut, nous vous répondons rapidement. | Request the document you need, we will reply quickly.
 demande_texte_formations | Demandez la formation qu'il vous faut, nous vous répondons rapidement. | Request the training you need, we will reply quickly.
 demande_bouton | Faire une demande | Make a request
+
+
+
+[RECOMMANDATIONS]
+# Titre exact | Étiquette | Étiquette en anglais (facultatif)
+Titre exact d'un document | Populaire
+Titre exact d'une formation | Recommandé
+Titre exact d'un autre document | Le plus demandé | Most requested
+
