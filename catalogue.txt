@@ -91,3 +91,6 @@ Titre exact d'un autre document | Le plus demandé | Most requested
 
 [REGLAGES]
 limite_par_jour | 4
+whatsapp | +224 626 19 89 58
+email | od626198958@gmail.com
+orange_money | +224 626 19 89 58
