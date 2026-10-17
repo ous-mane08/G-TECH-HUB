@@ -33,3 +33,9 @@ Installations Photovoltaïques| ANNE LABOURET & MICHEL VILLOZ |Cours | 0 |couv-p
 CyberSécurité de début à expert | Circuits, microcontrôleurs et systèmes intelligents. | Electronics & embedded systems | Circuits, microcontrollers and smart systems.
 Programmation & Développement | Apprenez à coder et à créer des applications. | Programming & Development | Learn to code and build applications.
 Réseaux & Cybersécurité | Réseaux informatiques et protection des systèmes. | Networks & Cybersecurity | Computer networks and system protection.
+
+
+[ACCUEIL]
+# Image | Texte en français | Texte en anglais (facultatif)
+accueil-1.jpg | Se former n'a jamais été aussi simple ! | Learning has never been this simple!
+accueil-2.jpg | Des formations pour un avenir meilleur | Training for a better future
