@@ -86,3 +86,8 @@ Titre exact d'un document | Populaire
 Titre exact d'une formation | Recommandé
 Titre exact d'un autre document | Le plus demandé | Most requested
 
+
+
+
+[REGLAGES]
+limite_par_jour | 4
