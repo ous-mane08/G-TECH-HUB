@@ -39,3 +39,28 @@ Réseaux & Cybersécurité | Réseaux informatiques et protection des systèmes.
 # Image | Texte en français | Texte en anglais (facultatif)
 accueil-1.jpg | Se former n'a jamais été aussi simple ! | Learning has never been this simple!
 accueil-2.jpg | Des formations pour un avenir meilleur | Training for a better future
+
+
+
+[TEXTES]
+# clé | français | anglais
+accueil_titre | Digital Learning & Commerce | Digital Learning & Commerce
+carte1_titre | Formation | Training
+carte1_texte | Apprenez à votre rythme, où que vous soyez. | Learn at your own pace, wherever you are.
+carte2_titre | Documents | Documents
+carte2_texte | Cours, guides et modèles à télécharger. | Courses, guides and templates to download.
+carte3_titre | Développement | Development
+carte3_texte | Sites web et applications. | Websites and applications.
+carte4_titre | Vente en ligne | Online sales
+carte4_texte | Vendre et acheter simplement en ligne. | Sell and buy easily online.
+apropos_mission_titre | Notre mission | Our mission
+apropos_mission_texte | Rendre la formation digitale et le commerce accessible à tous, en offrant des ressources de qualité et des solutions innovantes pour développer les compétences et créer des opportunités. | Make digital training and commerce accessible to everyone, by offering quality resources and innovative solutions to build skills and create opportunities.
+apropos_icone1 | Formation | Training
+apropos_icone2 | Ressources digitales | Digital resources
+apropos_icone3 | Commerce en ligne | Online commerce
+apropos_icone4 | Innovation | Innovation
+apropos_icone5 | Accompagnement | Support
+apropos_icone6 | Communauté | Community
+apropos_vision_titre | Notre vision | Our vision
+apropos_vision_texte | Devenir la référence en Afrique dans le domaine de la formation digitale et du commerce en ligne. | Become the reference in Africa for digital training and online commerce.
+apropos_phrase | Une compétence peut devenir une opportunité ! | A skill can become an opportunity!
