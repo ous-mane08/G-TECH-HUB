@@ -94,3 +94,4 @@ limite_par_jour | 4
 whatsapp | +224 626 19 89 58
 email | od626198958@gmail.com
 orange_money | +224 626 19 89 58
+paiement | Oui
