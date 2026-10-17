@@ -64,3 +64,16 @@ apropos_icone6 | Communauté | Community
 apropos_vision_titre | Notre vision | Our vision
 apropos_vision_texte | Devenir la référence en Afrique dans le domaine de la formation digitale et du commerce en ligne. | Become the reference in Africa for digital training and online commerce.
 apropos_phrase | Une compétence peut devenir une opportunité ! | A skill can become an opportunity!
+
+
+# Modifiez les titres et les sous titres 
+documents_titre | Documents à télécharger, pour tous | Downloadable documents, for everyone
+documents_soustitre | Cours, guides, modèles et plus. Commandez en quelques touches. | Courses, guides, templates and more. Order in a few taps.
+documents_recherche | Rechercher un document | Search a document
+formations_titre | Formations | Training
+formations_soustitre | Choisissez une formation, puis contactez-nous pour vous inscrire. | Pick a course, then contact us to enroll.
+formations_bouton | Demander des infos | Ask for details
+demande_titre | Vous ne trouvez pas ce que vous cherchez ? | Can't find what you're looking for?
+demande_texte_documents | Demandez le document qu'il vous faut, nous vous répondons rapidement. | Request the document you need, we will reply quickly.
+demande_texte_formations | Demandez la formation qu'il vous faut, nous vous répondons rapidement. | Request the training you need, we will reply quickly.
+demande_bouton | Faire une demande | Make a request
