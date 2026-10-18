@@ -118,6 +118,62 @@ label{display:block;font-weight:600;font-size:14px;margin:12px 0 4px}
 .opt input{width:auto}
 .foot{text-align:center;padding:22px 0;color:var(--mut);font-size:14px}
 .foot button{background:none;border:0;color:var(--mut);text-decoration:underline;cursor:pointer;margin-top:8px}
+
+/* ===== Adaptation à tous les écrans (téléphone, tablette, ordinateur) ===== */
+:root{--mw:640px}
+@media(min-width:768px){:root{--mw:960px}}
+@media(min-width:1100px){:root{--mw:1140px}}
+.wrap,.plate .in{max-width:var(--mw)}
+.chip{padding:10px 16px}
+.lang button{padding:9px 14px}
+@media(min-width:768px){
+  .wrap,.plate .in{padding-left:24px;padding-right:24px}
+  body{font-size:17px}
+  .plate img{height:64px}
+  .tabs button{font-size:16px;padding:16px 8px;max-width:200px}
+  .hero h1{font-size:30px}.hero p{font-size:18px}
+  .sl:empty,.s .im{aspect-ratio:2/1}
+  .s p{font-size:24px;padding:16px 22px}
+  .tg{font-size:26px;margin:26px 0 16px}
+  .pils{grid-template-columns:repeat(4,1fr);gap:16px}
+  .pil{padding:18px}.pil b{font-size:18px}.pil small{font-size:15px}
+  .fl{grid-template-columns:repeat(2,1fr);gap:16px}
+  .grid{grid-template-columns:repeat(4,1fr);gap:18px}
+  .rc{width:170px}.rec h2{font-size:22px}
+  .chips{flex-wrap:wrap;overflow:visible}
+  #q{max-width:520px}
+  .ov{align-items:center}
+  .sheet{border-radius:18px;max-height:88%}
+  .bar{padding-left:max(24px,calc((100vw - var(--mw))/2 + 24px));padding-right:max(24px,calc((100vw - var(--mw))/2 + 24px))}
+  #ab{max-width:820px;margin:0 auto}
+  .abb b{font-size:34px}.abb img{width:96px}.abb small{font-size:12px}
+  .abi h2{font-size:20px}#ab .abi p{font-size:16px}
+  .six div{font-size:14px;padding:20px 8px}
+  .quote{font-size:18px;padding:18px}
+}
+@media(min-width:1100px){
+  .grid{grid-template-columns:repeat(5,1fr)}
+  .fl{grid-template-columns:repeat(3,1fr)}
+  .rc{width:180px}
+  .sl:empty,.s .im{aspect-ratio:2.3/1}
+  .s p{font-size:26px}
+}
+@media(hover:hover){
+  .btn:not(:disabled):hover{filter:brightness(1.12)}
+  .chip:hover{border-color:var(--acc)}
+  .tabs button:hover{color:var(--ink)}
+  .doc,.pil,.fc,.rc{transition:transform .15s,box-shadow .15s}
+  .doc:hover,.pil:hover,.fc:hover,.rc:hover{transform:translateY(-3px);box-shadow:0 8px 20px rgba(10,42,85,.12)}
+}
+@media(prefers-reduced-motion:reduce){.doc,.pil,.fc,.rc{transition:none}.doc:hover,.pil:hover,.fc:hover,.rc:hover{transform:none}}
+@media(max-width:360px){
+  .tabs button{font-size:12.5px}
+  .hero h1{font-size:21px}
+  .grid{gap:10px}
+  .pils{gap:8px}.pil{padding:10px}
+  .abb b{font-size:22px}.abb img{width:64px}
+  .six div{font-size:11px}
+}
 </style>
 </head>
 <body>
