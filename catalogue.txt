@@ -98,6 +98,8 @@ demande_bouton | Faire une demande | Make a request
 Titre exact d'un document | Populaire
 Titre exact d'une formation | Recommandé
 Titre exact d'un autre document | Le plus demandé | Most requested
+Résistance des matériaux |Recommandé 
+Comment Acheter et Importer des Produits| Le plus demandé | Most requested
 
 
 
