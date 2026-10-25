@@ -25,11 +25,11 @@ LE GRAND LIVRE D'ÉLECTRICITÉ | THIERRY GALLAUZIAUX & DAVID FEDULLO|Cours | 0 |
 La maintenance automobile| HUBERT MÉMÉTEAU & BRUNO COLLTOMB|Cours | 0 | couv-maintenance-auto.jpeg |
 Mécanique Générale| SYLVIE POMMIER & YVES BERTHAUD|Cours | 0 | couv-mecanique-generale.jpeg |
 Installations Photovoltaïques| ANNE LABOURET & MICHEL VILLOZ |Cours | 0 |couv-photovoltaique.jpeg |
-Apprendre à coder en PYTHON| DANIEL ICHBIAH |Cours | 0 |couv-aprendre-pytgon.jpeg |
+Apprendre à coder en PYTHON| DANIEL ICHBIAH |Cours | 0 |couv-aprendre-python.jpeg |
 L'art de négocieravec la méthode HARVARD| MAURICE A. BERCOFF |Cours | 0 |couv-art-de-negocier.jpeg |
 La commande électronique des machines| MICHEL PINARD |Cours | 0 |couv-commande-machine.jpeg |
-Débuté en Algorithmes et en Programmation PYTHON| BRUNO HENNART |Cours | 0 |couv-couv-debuter-en-Python.jpeg |
-Commentdevenirun mâleAlpha| JOHN ALEXANDER |Cours | 0 |couv-couv-devenir-un-male-alpha.jpeg |
+Débuté en Algorithmes et en Programmation PYTHON| BRUNO HENNART |Cours | 0 |couv-debuter-en-Python.jpeg |
+Comment devenir un mâle Alpha| JOHN ALEXANDER |Cours | 0 |couv-devenir-un-male-alpha.jpeg |
 Gestiondes ressourceshumaines| JEAN-MARIE PERETTI |Cours | 0 |couv-grh1.jpeg |
 La gestiondes ressourceshumainess|LOÏC CADIN & FRANCIS GUERIN |Cours | 0 |couv-grh2.jpeg |
 Internet des objets connectés |ATHIERRY ALHALEL, REMI BOULL & ADRIEN VAN DEN BASSCHE|Cours | 0 |couv-internet-des-objets.jpeg |
